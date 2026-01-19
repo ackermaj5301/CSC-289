@@ -8,14 +8,15 @@
   https://github.com/ackermaj5301/CSC-289/issues/4
 
 - Issue C: Validate Dev Environment (Closed)  
-https://github.com/ackermaj5301/CSC-289/issues/1
+  https://github.com/ackermaj5301/CSC-289/issues/1
 
 ## Pull Request
 - Merged PR  
-https://github.com/ackermaj5301/CSC-289/pull/2
+  https://github.com/ackermaj5301/CSC-289/pull/2
 
 ## Environment Validation Evidence
-https://github.com/ackermaj5301/CSC-289/blob/main/verification-Joey.md
+- verification-Joey.md  
+  https://github.com/ackermaj5301/CSC-289/blob/main/verification-Joey.md
 
 ## Collaboration
 - Pull request created and merged (review requested)  
